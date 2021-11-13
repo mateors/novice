@@ -40,11 +40,11 @@ specially teenagers, young computer scient students
 
 #### In javascript
 let name="Mostain" \
-let age=20 \
+let age=20 
 > its a string template like `"My name is ${name} I am ${age} years old"`
 
 ## Benefit
-# String interpolation has the obvious benefit of higher readability
-#scales better 
+* Readability -> String interpolation has the obvious benefit of higher readability
+* Scalability -> scales better 
 
 interpolate = dhuakano
